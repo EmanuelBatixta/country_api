@@ -1,0 +1,15 @@
+POST http://localhost:3000/paises
+Content-Type: application/json
+
+{
+  "id": 55,
+  "nome": "Brasil",
+  "capital": "Brasília",
+  "populacao": 215000000,
+  "idioma": "Português",
+  "area": 8515767.049
+}
+
+###
+GET http://localhost:3000/paises?search=
+

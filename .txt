@@ -1,0 +1,232 @@
+{
+  "id": 81,
+  "nome": "Japão",
+  "capital": "Tóquio",
+  "populacao": 125800000,
+  "idioma": "Japonês",
+  "area": 377975.0
+},
+{
+  "id": 49,
+  "nome": "Alemanha",
+  "capital": "Berlim",
+  "populacao": 83100000,
+  "idioma": "Alemão",
+  "area": 357022.0
+},
+{
+  "id": 1,
+  "nome": "Estados Unidos",
+  "capital": "Washington, D.C.",
+  "populacao": 331000000,
+  "idioma": "Inglês",
+  "area": 9834000.0
+},
+{
+  "id": 91,
+  "nome": "Índia",
+  "capital": "Nova Délhi",
+  "populacao": 1400000000,
+  "idioma": "Hindi",
+  "area": 3287263.0
+},
+{
+  "id": 86,
+  "nome": "China",
+  "capital": "Pequim",
+  "populacao": 1440000000,
+  "idioma": "Mandarim",
+  "area": 9597000.0
+},
+{
+  "id": 33,
+  "nome": "França",
+  "capital": "Paris",
+  "populacao": 67000000,
+  "idioma": "Francês",
+  "area": 551695.0
+},
+{
+  "id": 1,
+  "nome": "Canadá",
+  "capital": "Ottawa",
+  "populacao": 38000000,
+  "idioma": "Inglês e Francês",
+  "area": 9984670.0
+},
+{
+  "id": 61,
+  "nome": "Austrália",
+  "capital": "Camberra",
+  "populacao": 26000000,
+  "idioma": "Inglês",
+  "area": 7692024.0
+},
+{
+  "id": 7,
+  "nome": "Rússia",
+  "capital": "Moscou",
+  "populacao": 146000000,
+  "idioma": "Russo",
+  "area": 17098242.0
+},
+{
+  "id": 44,
+  "nome": "Reino Unido",
+  "capital": "Londres",
+  "populacao": 67000000,
+  "idioma": "Inglês",
+  "area": 243610.0
+},
+{
+  "id": 54,
+  "nome": "Argentina",
+  "capital": "Buenos Aires",
+  "populacao": 45000000,
+  "idioma": "Espanhol",
+  "area": 2780400.0
+},
+{
+  "id": 52,
+  "nome": "México",
+  "capital": "Cidade do México",
+  "populacao": 126000000,
+  "idioma": "Espanhol",
+  "area": 1972550.0
+},
+{
+  "id": 39,
+  "nome": "Itália",
+  "capital": "Roma",
+  "populacao": 60000000,
+  "idioma": "Italiano",
+  "area": 301340.0
+},
+{
+  "id": 27,
+  "nome": "África do Sul",
+  "capital": "Pretória",
+  "populacao": 60000000,
+  "idioma": "Inglês e outros",
+  "area": 1219090.0
+},
+{
+  "id": 20,
+  "nome": "Egito",
+  "capital": "Cairo",
+  "populacao": 100000000,
+  "idioma": "Árabe",
+  "area": 1002450.0
+},
+{
+  "id": 34,
+  "nome": "Espanha",
+  "capital": "Madri",
+  "populacao": 47000000,
+  "idioma": "Espanhol",
+  "area": 505990.0
+},
+{
+  "id": 351,
+  "nome": "Portugal",
+  "capital": "Lisboa",
+  "populacao": 10000000,
+  "idioma": "Português",
+  "area": 92212.0
+},
+{
+  "id": 30,
+  "nome": "Grécia",
+  "capital": "Atenas",
+  "populacao": 10400000,
+  "idioma": "Grego",
+  "area": 131957.0
+},
+{
+  "id": 56,
+  "nome": "Chile",
+  "capital": "Santiago",
+  "populacao": 19000000,
+  "idioma": "Espanhol",
+  "area": 756102.0
+},
+{
+  "id": 57,
+  "nome": "Colômbia",
+  "capital": "Bogotá",
+  "populacao": 50000000,
+  "idioma": "Espanhol",
+  "area": 1141748.0
+},
+{
+  "id": 51,
+  "nome": "Peru",
+  "capital": "Lima",
+  "populacao": 33000000,
+  "idioma": "Espanhol",
+  "area": 1285216.0
+},
+{
+  "id": 82,
+  "nome": "Coreia do Sul",
+  "capital": "Seul",
+  "populacao": 52000000,
+  "idioma": "Coreano",
+  "area": 100339.0
+},
+{
+  "id": 850,
+  "nome": "Coreia do Norte",
+  "capital": "Pyongyang",
+  "populacao": 26000000,
+  "idioma": "Coreano",
+  "area": 120540.0
+},
+{
+  "id": 62,
+  "nome": "Indonésia",
+  "capital": "Jacarta",
+  "populacao": 270000000,
+  "idioma": "Indonésio",
+  "area": 1910931.0
+},
+{
+  "id": 66,
+  "nome": "Tailândia",
+  "capital": "Bangkok",
+  "populacao": 70000000,
+  "idioma": "Tailandês",
+  "area": 513120.0
+},
+{
+  "id": 64,
+  "nome": "Nova Zelândia",
+  "capital": "Wellington",
+  "populacao": 5000000,
+  "idioma": "Inglês",
+  "area": 268021.0
+},
+{
+  "id": 46,
+  "nome": "Suécia",
+  "capital": "Estocolmo",
+  "populacao": 10300000,
+  "idioma": "Sueco",
+  "area": 450295.0
+},
+{
+  "id": 47,
+  "nome": "Noruega",
+  "capital": "Oslo",
+  "populacao": 5400000,
+  "idioma": "Norueguês",
+  "area": 385207.0
+},
+{
+  "id": 358,
+  "nome": "Finlândia",
+  "capital": "Helsinque",
+  "populacao": 5500000,
+  "idioma": "Finlandês",
+  "area": 338455.0
+},
