@@ -1,8 +1,9 @@
 POST https://country-api-mqyt.onrender.com/paises
 Content-Type: application/json
+Accept-Language: pt-BR
 
   {
-    "id": 55,
+    "id": 56,
     "nome": "Brasil",
     "capital": "Brasília",
     "populacao": 215000000,
@@ -11,8 +12,7 @@ Content-Type: application/json
   }
 
 ###
-GET https://country-api-mqyt.onrender.com/paises?search=brasil
-Content-Type: application/json
+GET http://localhost:3333/paises?search=brasil
 
 ###
 PUT https://country-api-mqyt.onrender.com/paises/56
@@ -28,15 +28,4 @@ Content-Type: application/json
   }
 
 ###
-DELETE https://country-api-mqyt.onrender.com/paises/55
-Content-Type: application/json
-
-{
-  "id": 55,
-  "nome": "Brasil",
-  "capital": "Brasília",
-  "populacao": 215000000,
-  "idioma": "Português",
-  "area": 8515767.049
-}
-
+DELETE https://country-api-mqyt.onrender.com/paises/56

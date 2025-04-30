@@ -5,10 +5,16 @@ const server = fastify()
 
 const database = new DataBasePostgres()
 
+server.get('/', async (request) => {
+    
+    return 'author: Emanuel Oliveira, Github: emanuelbatixta'
+})
+
 server.get('/paises', async (request) => {
     const search = request.query.search
 
     const paises = await database.list(search)
+
     return paises
 })
 
@@ -53,5 +59,5 @@ server.delete('/paises/:id', (request, reply) => {
 
 server.listen({
     host: '0.0.0.0',
-    port: process.env.PORT ?? 3000,
+    port: process.env.PORT ?? 3333,
 })
