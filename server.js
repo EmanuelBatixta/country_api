@@ -9,7 +9,6 @@ server.get('/paises', async (request) => {
     const search = request.query.search
 
     const paises = await database.list(search)
-
     return paises
 })
 
@@ -33,7 +32,7 @@ server.put('/paises/:id', async (request, reply) => {
 
     const { id, nome, capital, populacao, idioma, area} = request.body
 
-    const country = await database.update(countryId,{
+    await database.update(countryId,{
         id,
         nome,
         capital,
@@ -41,6 +40,7 @@ server.put('/paises/:id', async (request, reply) => {
         idioma,
         area,   
     })
+
     return reply.status(204).send()
 })
 

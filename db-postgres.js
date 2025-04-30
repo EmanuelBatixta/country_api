@@ -4,7 +4,7 @@ export class DataBasePostgres{
     async list(search){
         let country
 
-        search ? await sql`select * from paises where title ilike ${"%" + search + "%"}` : await sql`select * from paises`
+        search ? await sql`select * from paises where nome ilike ${"%" + search + "%"}` : await sql`select * from paises`
 
         return country;
     }
