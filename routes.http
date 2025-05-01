@@ -1,9 +1,9 @@
-POST https://country-api-mqyt.onrender.com/paises
+POST https://country-api-h3y9.onrender.com/paises
 Content-Type: application/json
 Accept-Language: pt-BR
 
   {
-    "id": 56,
+    "id": 55,
     "nome": "Brasil",
     "capital": "Brasília",
     "populacao": 215000000,
@@ -12,14 +12,14 @@ Accept-Language: pt-BR
   }
 
 ###
-GET http://localhost:3333/paises?search=brasil
+GET https://country-api-h3y9.onrender.com/paises?search=brasil
 
 ###
-PUT https://country-api-mqyt.onrender.com/paises/56
+PUT https://country-api-h3y9.onrender.com/paises/55
 Content-Type: application/json
 
   {
-    "id": 57,
+    "id": 55,
     "nome": "Brasil",
     "capital": "Brasília",
     "populacao": 215000000,
@@ -28,4 +28,4 @@ Content-Type: application/json
   }
 
 ###
-DELETE https://country-api-mqyt.onrender.com/paises/56
+DELETE https://country-api-h3y9.onrender.com/paises

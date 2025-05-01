@@ -18,7 +18,7 @@ export class DataBasePostgres{
     async update(id, country){
         const { nome, capital, populacao, idioma, area } = country;
 
-        await sql`update paises set nome = ${nome}, capital = ${capital}, populacao = ${populacao}, idioma = ${idioma}, area = ${area} where id = ${id}`
+        await sql`UPDATE paises SET nome = ${nome}, capital = ${capital}, populacao = ${populacao}, idioma = ${idioma}, area = ${area} WHERE id = ${id}`
     }
 
     async delete(){
