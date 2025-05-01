@@ -80,4 +80,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato pelo e-mail: emanuelbatixta@gmail.com.
+Para dúvidas ou sugestões, entre em contato pelo e-mail: emanueljonatas28@gmail.com.
