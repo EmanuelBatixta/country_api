@@ -12,7 +12,7 @@ Accept-Language: pt-BR
   }
 
 ###
-GET https://country-api-h3y9.onrender.com/paises?search=brasil
+GET https://country-api-h3y9.onrender.com/paises
 
 ###
 PUT https://country-api-h3y9.onrender.com/paises/55

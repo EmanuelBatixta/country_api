@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/EmanuelBatixta/country_api#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.5.0",
     "fastify": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
     "postgres": "^3.4.5"
   }
 }
